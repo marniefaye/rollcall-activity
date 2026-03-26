@@ -8,3 +8,11 @@
 * Marnina F. Willard
   * GitHub: marniefaye
   * Interests: baking, quilting, movie watching
+
+* Quinn Sena
+	* GitHub: qtsena
+	* Interests: video games, computer science and CS education
+
+* Al-Ekram Elahee Hridoy
+  * GitHub: alhridoy
+  * Interests: open source, scalable systems, social impact tech
